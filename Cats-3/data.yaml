@@ -1,0 +1,12 @@
+names:
+- cat
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: cats-n9b87
+  url: https://universe.roboflow.com/mohamed-traore-2ekkp/cats-n9b87/dataset/3
+  version: 3
+  workspace: mohamed-traore-2ekkp
+test: ../test/images
+train: ../train/images
+val: ../valid/images
